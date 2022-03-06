@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1637373467 source:c:\users\joses\onedrive\escritorio\proyectofinal\funcion.cpp
+	"Funcion.h"
+
+1637373467 c:\users\joses\onedrive\escritorio\proyectofinal\funcion.h
+
+1637619285 source:c:\users\joses\onedrive\escritorio\proyectofinal\main.cpp
+	<iostream>
+	<vector>
+	"Conjunto.h"
+	"Herramientas.h"
+	"HerramientasCalculo.h"
+	"Matriz.h"
+	<math.h>
+	"HerramientasAlgebra.h"
+	"Triangulo.h"
+	"Funcion.h"
+	"Vector.h"
+
+1637602686 c:\users\joses\onedrive\escritorio\proyectofinal\conjunto.h
+	<iostream>
+	<locale.h>
+
+1637611008 source:c:\users\joses\onedrive\escritorio\proyectofinal\conjunto.cpp
+	<iostream>
+	"Conjunto.h"
+
+1637267123 c:\users\joses\onedrive\escritorio\proyectofinal\herramientas.h
+	<iostream>
+	<vector>
+
+1637618319 c:\users\joses\onedrive\escritorio\proyectofinal\herramientascalculo.h
+	<iostream>
+	<math.h>
+
+1637281544 source:c:\users\joses\onedrive\escritorio\proyectofinal\matriz.cpp
+	"Matriz.h"
+	<iostream>
+
+1637272366 c:\users\joses\onedrive\escritorio\proyectofinal\matriz.h
+	<iostream>
+
+1637612280 c:\users\joses\onedrive\escritorio\proyectofinal\herramientasalgebra.h
+	<iostream>
+	<vector>
+	"math.h"
+	"Vector.h"
+
+1637448963 source:c:\users\joses\onedrive\escritorio\proyectofinal\triangulo.cpp
+	"Triangulo.h"
+	<math.h>
+
+1637361731 c:\users\joses\onedrive\escritorio\proyectofinal\triangulo.h
+	<math.h>
+
+1637610942 source:c:\users\joses\onedrive\escritorio\proyectofinal\vector.cpp
+	"Vector.h"
+
+1637605030 c:\users\joses\onedrive\escritorio\proyectofinal\vector.h
+	<iostream>
+
